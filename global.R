@@ -1,0 +1,7 @@
+library(shiny)
+library(plotly)
+library(shinydashboard)
+library(shinyWidgets)
+library(colourpicker)
+library(DT)
+library(rlang)
